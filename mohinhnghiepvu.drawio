@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T06:58:56.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DEsgicngQjudzVrARlmx" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T07:10:24.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="iDGUwLHr81pHI5TUx1Qw" version="22.1.11" type="github">
   <diagram name="Trang-1" id="OkoWY4tEVxeBiEuCzgqk">
     <mxGraphModel dx="995" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,40 +11,40 @@
           <mxGeometry x="400" y="40" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="360" height="1080" as="geometry" />
+          <mxGeometry x="40" y="80" width="360" height="840" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="360" height="1080" as="geometry" />
+          <mxGeometry x="400" y="80" width="360" height="840" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="40" height="40" as="geometry" />
+          <mxGeometry x="200" y="110" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-8" value="Đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-9" value="Nhận thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-10" value="Xác nhận thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-11" value="Chính xác" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="505" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-12" value="Thông báo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-13" value="Đăng nhập &lt;br&gt;thành công" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-14" value="Hiển thị các chức năng tương ứng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-15" value="Sử dụng chức năng tương ứng mà hệ thống cung cấp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-16" value="Đăng xuất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOMXDZir3Gy81gxvzsrk-6" target="BOMXDZir3Gy81gxvzsrk-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -107,11 +107,11 @@
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-31" value="Sai" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BOMXDZir3Gy81gxvzsrk-29">
           <mxGeometry x="-0.5351" relative="1" as="geometry">
-            <mxPoint x="9" y="-13" as="offset" />
+            <mxPoint x="29" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1090" width="40" height="40" as="geometry" />
+          <mxGeometry x="200" y="840" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BOMXDZir3Gy81gxvzsrk-33" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOMXDZir3Gy81gxvzsrk-16" target="BOMXDZir3Gy81gxvzsrk-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
